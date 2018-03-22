@@ -1,17 +1,35 @@
+/* Q1 */
 h1 {
     color: rgb(197, 63, 141);
+
+    /* Extra.. */
     text-align: center;
+    font-family: cursive;
 }
+/* Q2 */
 .colleges{
     background: #c83;
+
+    /* Extra.. */
+    color: #ffffff;
+    font-family: fantasy;
+    font-size: 25px;
 }
+/* Q3 */
 .topics{
     list-style-type: none;
 }
+/* Q4 */
 figure img{
     max-width: 300px;
 }
+/* Q5 */
 figure{
     display: inline-block;
+}
+/* Q6 */
+figure{
     margin: 20px 20px 20px 20px;
 }
+/* Q7 */
+/* i did on the html page.. */
